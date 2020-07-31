@@ -1,3 +1,8 @@
 # hello-world
 Just another repository
-Just starting with coding 
+just starting with coding
+
+
+Currently trying to exit vim mode 
+
+
